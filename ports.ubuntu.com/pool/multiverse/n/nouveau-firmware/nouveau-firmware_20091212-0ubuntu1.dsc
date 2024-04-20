@@ -1,0 +1,1 @@
+../../../universe/n/nouveau-firmware/nouveau-firmware_20091212-0ubuntu1.dsc
