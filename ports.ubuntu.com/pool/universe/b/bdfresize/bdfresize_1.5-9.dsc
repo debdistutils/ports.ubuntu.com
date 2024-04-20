@@ -1,0 +1,1 @@
+../../../main/b/bdfresize/bdfresize_1.5-9.dsc
