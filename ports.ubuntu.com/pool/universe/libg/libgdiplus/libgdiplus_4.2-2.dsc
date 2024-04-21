@@ -1,0 +1,1 @@
+../../../main/libg/libgdiplus/libgdiplus_4.2-2.dsc

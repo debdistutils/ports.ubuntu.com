@@ -1,0 +1,1 @@
+../../../main/libg/libgnujaf-java/libgnujaf-java_1.1.1-8build1.dsc
