@@ -1,0 +1,1 @@
+../../../main/libs/libstruct-dumb-perl/libstruct-dumb-perl_0.12-1.dsc

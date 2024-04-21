@@ -1,0 +1,1 @@
+../../../main/libs/libstax-java/libstax-java_1.2.0-3build1.dsc
