@@ -1,0 +1,1 @@
+../../../main/h/hsqldb1.8.0/hsqldb1.8.0_1.8.0.10+dfsg-8.dsc

@@ -1,0 +1,1 @@
+../../../main/h/hildon-control-panel-l10n/hildon-control-panel-l10n_3.0-2r4455ubuntu1.dsc
