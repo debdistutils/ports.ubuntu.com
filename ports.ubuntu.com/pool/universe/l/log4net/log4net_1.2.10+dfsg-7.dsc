@@ -1,0 +1,1 @@
+../../../main/l/log4net/log4net_1.2.10+dfsg-7.dsc

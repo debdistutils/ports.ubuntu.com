@@ -1,0 +1,1 @@
+../../../main/l/ldap-auth-client/ldap-auth-client_0.5.3.dsc
