@@ -1,0 +1,1 @@
+../../../main/i/ibus-sunpinyin/ibus-sunpinyin_2.0.3-5build3.dsc

@@ -1,0 +1,1 @@
+../../../main/i/ispell-czech/ispell-czech_20040229-5.2.dsc
