@@ -1,0 +1,1 @@
+../../../main/liba/libappindicator/libappindicator_12.10.1+20.10.20200706.1-0ubuntu1.dsc
