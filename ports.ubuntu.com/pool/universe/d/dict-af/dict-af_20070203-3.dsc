@@ -1,0 +1,1 @@
+../../../main/d/dict-af/dict-af_20070203-3.dsc

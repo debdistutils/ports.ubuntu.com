@@ -1,0 +1,1 @@
+../../../main/d/docbook2x/docbook2x_0.8.8-14.dsc

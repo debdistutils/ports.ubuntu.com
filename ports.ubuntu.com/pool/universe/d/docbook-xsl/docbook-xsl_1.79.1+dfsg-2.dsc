@@ -1,0 +1,1 @@
+../../../main/d/docbook-xsl/docbook-xsl_1.79.1+dfsg-2.dsc

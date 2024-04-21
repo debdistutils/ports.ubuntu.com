@@ -1,0 +1,1 @@
+../../../main/d/dictdlib/dictdlib_2.0.4.1+nmu1build1.dsc

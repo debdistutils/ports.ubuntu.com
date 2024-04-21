@@ -1,0 +1,1 @@
+../../../main/d/dblatex/dblatex_0.3.7-1.dsc
