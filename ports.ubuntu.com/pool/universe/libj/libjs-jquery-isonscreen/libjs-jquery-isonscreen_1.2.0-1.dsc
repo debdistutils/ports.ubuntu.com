@@ -1,0 +1,1 @@
+../../../main/libj/libjs-jquery-isonscreen/libjs-jquery-isonscreen_1.2.0-1.dsc

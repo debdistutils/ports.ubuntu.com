@@ -1,0 +1,1 @@
+../../../main/libj/libjavascript-minifier-xs-perl/libjavascript-minifier-xs-perl_0.11-1build1.dsc
