@@ -1,0 +1,1 @@
+../../../main/g/geronimo-interceptor-3.0-spec/geronimo-interceptor-3.0-spec_1.0.1-1fakesync1.dsc

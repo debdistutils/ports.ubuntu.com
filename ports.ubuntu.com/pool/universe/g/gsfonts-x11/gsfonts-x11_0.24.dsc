@@ -1,0 +1,1 @@
+../../../main/g/gsfonts-x11/gsfonts-x11_0.24.dsc

@@ -1,0 +1,1 @@
+../../../main/g/gnome-js-common/gnome-js-common_0.1.2-1.dsc

@@ -1,0 +1,1 @@
+../../../main/g/gtkspell3/gtkspell3_3.0.9-2.dsc

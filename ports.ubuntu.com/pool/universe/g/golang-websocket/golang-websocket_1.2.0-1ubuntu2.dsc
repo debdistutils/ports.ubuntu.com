@@ -1,0 +1,1 @@
+../../../main/g/golang-websocket/golang-websocket_1.2.0-1ubuntu2.dsc

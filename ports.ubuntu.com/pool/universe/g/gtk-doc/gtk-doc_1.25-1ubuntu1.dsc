@@ -1,0 +1,1 @@
+../../../main/g/gtk-doc/gtk-doc_1.25-1ubuntu1.dsc

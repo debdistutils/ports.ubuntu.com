@@ -1,0 +1,1 @@
+../../../main/g/gnome-video-effects/gnome-video-effects_0.6.0-1ubuntu1.dsc

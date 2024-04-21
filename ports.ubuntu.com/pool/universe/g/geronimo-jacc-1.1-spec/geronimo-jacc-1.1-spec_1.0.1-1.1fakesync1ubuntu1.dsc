@@ -1,0 +1,1 @@
+../../../main/g/geronimo-jacc-1.1-spec/geronimo-jacc-1.1-spec_1.0.1-1.1fakesync1ubuntu1.dsc
