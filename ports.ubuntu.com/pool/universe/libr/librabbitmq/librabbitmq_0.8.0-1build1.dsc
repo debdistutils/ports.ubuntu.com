@@ -1,0 +1,1 @@
+../../../main/libr/librabbitmq/librabbitmq_0.8.0-1build1.dsc
