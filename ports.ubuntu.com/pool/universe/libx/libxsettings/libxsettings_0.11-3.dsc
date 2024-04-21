@@ -1,0 +1,1 @@
+../../../main/libx/libxsettings/libxsettings_0.11-3.dsc
