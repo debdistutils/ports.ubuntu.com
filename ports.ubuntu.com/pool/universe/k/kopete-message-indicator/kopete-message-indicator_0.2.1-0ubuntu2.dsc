@@ -1,0 +1,1 @@
+../../../main/k/kopete-message-indicator/kopete-message-indicator_0.2.1-0ubuntu2.dsc
