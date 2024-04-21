@@ -1,0 +1,1 @@
+../../../main/libm/libmoo-perl/libmoo-perl_2.000002-1.dsc

@@ -1,0 +1,1 @@
+../../../main/libm/libmusicbrainz3/libmusicbrainz3_3.0.2-2.1.dsc
