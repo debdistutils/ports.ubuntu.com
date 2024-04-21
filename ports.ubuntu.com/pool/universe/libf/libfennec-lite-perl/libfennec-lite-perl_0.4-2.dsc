@@ -1,0 +1,1 @@
+../../../main/libf/libfennec-lite-perl/libfennec-lite-perl_0.4-2.dsc

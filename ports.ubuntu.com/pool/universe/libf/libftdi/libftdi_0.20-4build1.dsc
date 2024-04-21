@@ -1,0 +1,1 @@
+../../../main/libf/libftdi/libftdi_0.20-4build1.dsc
