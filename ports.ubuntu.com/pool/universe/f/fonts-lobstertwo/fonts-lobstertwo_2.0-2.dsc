@@ -1,0 +1,1 @@
+../../../main/f/fonts-lobstertwo/fonts-lobstertwo_2.0-2.dsc

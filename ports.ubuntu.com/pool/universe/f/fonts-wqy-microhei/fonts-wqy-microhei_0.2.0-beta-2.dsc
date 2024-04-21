@@ -1,0 +1,1 @@
+../../../main/f/fonts-wqy-microhei/fonts-wqy-microhei_0.2.0-beta-2.dsc

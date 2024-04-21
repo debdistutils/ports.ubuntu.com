@@ -1,0 +1,1 @@
+../../../main/f/fonts-arabeyes/fonts-arabeyes_2.1-7.dsc

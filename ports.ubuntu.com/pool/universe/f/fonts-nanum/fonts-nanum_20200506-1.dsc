@@ -1,0 +1,1 @@
+../../../main/f/fonts-nanum/fonts-nanum_20200506-1.dsc

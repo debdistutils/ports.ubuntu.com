@@ -1,0 +1,1 @@
+../../../main/f/fonts-arphic-gkai00mp/fonts-arphic-gkai00mp_2.11-15.dsc

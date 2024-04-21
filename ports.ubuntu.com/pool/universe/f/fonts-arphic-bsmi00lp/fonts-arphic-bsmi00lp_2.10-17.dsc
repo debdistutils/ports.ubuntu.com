@@ -1,0 +1,1 @@
+../../../main/f/fonts-arphic-bsmi00lp/fonts-arphic-bsmi00lp_2.10-17.dsc

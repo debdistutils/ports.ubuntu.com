@@ -1,0 +1,1 @@
+../../../main/f/fonts-lohit-knda/fonts-lohit-knda_2.5.3-1.dsc

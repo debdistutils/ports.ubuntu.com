@@ -1,0 +1,1 @@
+../../../main/f/fonts-arphic-gbsn00lp/fonts-arphic-gbsn00lp_2.11-15.dsc

@@ -1,0 +1,1 @@
+../../../main/f/flashrom/flashrom_1.2-5.dsc

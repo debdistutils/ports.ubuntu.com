@@ -1,0 +1,1 @@
+../../../main/f/fonts-lohit-orya/fonts-lohit-orya_2.5.4.1-1.dsc

@@ -1,0 +1,1 @@
+../../../main/f/fonts-ebgaramond/fonts-ebgaramond_0.015+git20130628-3.dsc

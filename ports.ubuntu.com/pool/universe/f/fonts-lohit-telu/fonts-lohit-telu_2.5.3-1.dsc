@@ -1,0 +1,1 @@
+../../../main/f/fonts-lohit-telu/fonts-lohit-telu_2.5.3-1.dsc

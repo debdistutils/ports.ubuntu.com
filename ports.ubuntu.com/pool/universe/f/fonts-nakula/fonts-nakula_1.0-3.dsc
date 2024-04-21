@@ -1,0 +1,1 @@
+../../../main/f/fonts-nakula/fonts-nakula_1.0-3.dsc

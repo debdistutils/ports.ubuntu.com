@@ -1,0 +1,1 @@
+../../../main/f/fonts-nanum-coding/fonts-nanum-coding_2.5-1.dsc

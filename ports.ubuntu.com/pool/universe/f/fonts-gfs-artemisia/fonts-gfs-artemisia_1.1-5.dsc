@@ -1,0 +1,1 @@
+../../../main/f/fonts-gfs-artemisia/fonts-gfs-artemisia_1.1-5.dsc
