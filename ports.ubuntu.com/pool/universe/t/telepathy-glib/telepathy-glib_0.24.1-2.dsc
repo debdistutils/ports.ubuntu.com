@@ -1,0 +1,1 @@
+../../../main/t/telepathy-glib/telepathy-glib_0.24.1-2.dsc
