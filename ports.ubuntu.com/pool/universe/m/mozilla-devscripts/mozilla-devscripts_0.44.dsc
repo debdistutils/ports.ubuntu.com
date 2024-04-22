@@ -1,0 +1,1 @@
+../../../main/m/mozilla-devscripts/mozilla-devscripts_0.44.dsc

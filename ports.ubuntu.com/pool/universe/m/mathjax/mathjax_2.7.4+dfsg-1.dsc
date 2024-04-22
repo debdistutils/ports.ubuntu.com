@@ -1,0 +1,1 @@
+../../../main/m/mathjax/mathjax_2.7.4+dfsg-1.dsc

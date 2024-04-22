@@ -1,0 +1,1 @@
+../../../main/m/migration-assistant/migration-assistant_0.6.12.dsc

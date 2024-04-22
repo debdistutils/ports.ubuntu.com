@@ -1,0 +1,1 @@
+../../../main/m/mdetect/mdetect_0.5.2.4.dsc
