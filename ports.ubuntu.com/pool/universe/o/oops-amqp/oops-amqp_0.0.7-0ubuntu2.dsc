@@ -1,0 +1,1 @@
+../../../main/o/oops-amqp/oops-amqp_0.0.7-0ubuntu2.dsc

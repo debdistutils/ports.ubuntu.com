@@ -1,0 +1,1 @@
+../../../main/o/opencc/opencc_0.4.3-2build1.dsc
