@@ -1,0 +1,1 @@
+../../../main/q/qdjango/qdjango_0.6.2-2.dsc
