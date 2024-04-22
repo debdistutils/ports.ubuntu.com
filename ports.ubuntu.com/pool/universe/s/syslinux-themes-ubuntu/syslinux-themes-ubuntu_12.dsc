@@ -1,0 +1,1 @@
+../../../main/s/syslinux-themes-ubuntu/syslinux-themes-ubuntu_12.dsc

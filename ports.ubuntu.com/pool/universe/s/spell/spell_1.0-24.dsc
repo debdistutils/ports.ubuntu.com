@@ -1,0 +1,1 @@
+../../../main/s/spell/spell_1.0-24.dsc

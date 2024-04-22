@@ -1,0 +1,1 @@
+../../../main/s/speexdsp/speexdsp_1.2.1-1.dsc

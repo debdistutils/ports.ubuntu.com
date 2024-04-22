@@ -1,0 +1,1 @@
+../../../main/s/switcheroo-control/switcheroo-control_1.2-1.dsc

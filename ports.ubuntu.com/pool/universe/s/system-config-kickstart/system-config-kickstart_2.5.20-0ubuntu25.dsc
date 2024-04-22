@@ -1,0 +1,1 @@
+../../../main/s/system-config-kickstart/system-config-kickstart_2.5.20-0ubuntu25.dsc

@@ -1,0 +1,1 @@
+../../../main/s/stringtemplate/stringtemplate_3.2.1-1.dsc
