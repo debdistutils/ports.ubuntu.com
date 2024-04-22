@@ -1,1 +1,0 @@
-../../../main/q/qqwing/qqwing_1.3.4-1.1ubuntu3.dsc
