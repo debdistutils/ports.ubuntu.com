@@ -1,0 +1,1 @@
+../../../main/p/python-httpretty/python-httpretty_0.8.6-2.dsc

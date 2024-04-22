@@ -1,0 +1,1 @@
+../../../main/p/python-colorama/python-colorama_0.3.7-1.dsc

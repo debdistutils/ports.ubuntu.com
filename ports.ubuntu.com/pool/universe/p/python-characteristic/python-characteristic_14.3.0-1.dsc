@@ -1,0 +1,1 @@
+../../../main/p/python-characteristic/python-characteristic_14.3.0-1.dsc

@@ -1,0 +1,1 @@
+../../../main/p/pinyin-database/pinyin-database_1.2.99-3.dsc

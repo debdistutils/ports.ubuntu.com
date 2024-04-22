@@ -1,0 +1,1 @@
+../../../main/p/python-minimock/python-minimock_1.2.7-1build1.dsc

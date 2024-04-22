@@ -1,0 +1,1 @@
+../../../main/p/pysmbc/pysmbc_1.0.15.5-1.dsc

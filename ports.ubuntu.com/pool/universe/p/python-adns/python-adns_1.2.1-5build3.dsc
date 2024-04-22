@@ -1,0 +1,1 @@
+../../../main/p/python-adns/python-adns_1.2.1-5build3.dsc

@@ -1,0 +1,1 @@
+../../../main/p/python-aws-requests-auth/python-aws-requests-auth_0.4.1-1.dsc

@@ -1,0 +1,1 @@
+../../../main/p/python-setuptools/python-setuptools_44.0.0-2.dsc

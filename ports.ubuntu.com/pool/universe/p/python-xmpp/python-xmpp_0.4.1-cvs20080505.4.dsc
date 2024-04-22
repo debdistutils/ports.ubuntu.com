@@ -1,0 +1,1 @@
+../../../main/p/python-xmpp/python-xmpp_0.4.1-cvs20080505.4.dsc
