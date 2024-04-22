@@ -1,0 +1,1 @@
+../../../main/x/xsettings-kde/xsettings-kde_0.12.3-0ubuntu3.dsc
