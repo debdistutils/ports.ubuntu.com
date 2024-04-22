@@ -1,0 +1,1 @@
+../../../main/r/ruby-metaclass/ruby-metaclass_0.0.4-1.dsc

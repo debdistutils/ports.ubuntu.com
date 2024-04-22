@@ -1,0 +1,1 @@
+../../../main/r/rus-ispell/rus-ispell_0.99g5-18.dsc

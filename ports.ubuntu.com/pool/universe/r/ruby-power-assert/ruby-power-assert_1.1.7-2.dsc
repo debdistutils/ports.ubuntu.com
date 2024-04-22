@@ -1,0 +1,1 @@
+../../../main/r/ruby-power-assert/ruby-power-assert_1.1.7-2.dsc
