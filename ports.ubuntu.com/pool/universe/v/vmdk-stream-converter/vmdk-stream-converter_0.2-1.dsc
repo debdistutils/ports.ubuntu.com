@@ -1,0 +1,1 @@
+../../../main/v/vmdk-stream-converter/vmdk-stream-converter_0.2-1.dsc
