@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1c179452f1f6e97060998131e0e5d45e5ea8074e4498ea3791068c530fc9cc5
-size 4190
+../../../main/l/linux-meta-nvidia-6.8/linux-meta-nvidia-6.8_6.8.0-1006.6~22.04.2.dsc
