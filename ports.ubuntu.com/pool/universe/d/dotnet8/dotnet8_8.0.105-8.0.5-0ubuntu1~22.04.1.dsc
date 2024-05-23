@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c2b92a8498af9e366e157a539d38a6f7c91fe1c9efea9ff34777b83f9928e5b
-size 3357
+../../../main/d/dotnet8/dotnet8_8.0.105-8.0.5-0ubuntu1~22.04.1.dsc
