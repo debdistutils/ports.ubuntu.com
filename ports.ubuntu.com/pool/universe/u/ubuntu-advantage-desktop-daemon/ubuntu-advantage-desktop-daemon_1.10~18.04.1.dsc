@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:489cb46329aedc62d0f571bd769bc6cdac0d0f9bb0ef524f93d09784dae55975
-size 1288
+../../../main/u/ubuntu-advantage-desktop-daemon/ubuntu-advantage-desktop-daemon_1.10~18.04.1.dsc
