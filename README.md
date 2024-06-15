@@ -32,6 +32,15 @@ pub   ed25519 2019-03-20 [SC]
       B1D2 BD13 75BE CB78 4CF4  F8C4 D73C F638 C53C 06BE
 ```
 
+Alternatively, the new dedicated importer key with the following
+fingerprint:
+
+```
+sec   rsa3072 2024-06-15 [SC]
+      A6DB 3F7E A841 C2E2 1D5E  72A1 0BC2 D729 80EC B489
+uid   Apt archive Git LFS importer <apt2gitlfs@snapt.debian.net>
+```
+
 You may view git log and verify commit signatures them as follows:
 
 ```
