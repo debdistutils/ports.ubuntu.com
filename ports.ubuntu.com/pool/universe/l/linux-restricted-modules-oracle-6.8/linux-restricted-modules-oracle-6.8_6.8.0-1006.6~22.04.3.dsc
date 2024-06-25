@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6d534c489255fc8208dea6e57840128de88074c85d0e8b9dc3f2f7c3abbb9ef2
-size 12813
+../../../restricted/l/linux-restricted-modules-oracle-6.8/linux-restricted-modules-oracle-6.8_6.8.0-1006.6~22.04.3.dsc
