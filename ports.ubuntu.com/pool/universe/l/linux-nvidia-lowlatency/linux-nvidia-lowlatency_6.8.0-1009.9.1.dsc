@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6f3872cd900a2a65ce431447cb3c3155c6235b524fae20070d416cfa25645cc7
-size 7339
+../../../main/l/linux-nvidia-lowlatency/linux-nvidia-lowlatency_6.8.0-1009.9.1.dsc
