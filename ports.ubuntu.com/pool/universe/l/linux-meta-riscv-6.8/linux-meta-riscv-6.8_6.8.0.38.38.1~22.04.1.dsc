@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9c1fa4b0499f89814dcadedbc54e9dfb1eab6637785a417d206a9b8c4ab7ba9a
-size 2833
+../../../main/l/linux-meta-riscv-6.8/linux-meta-riscv-6.8_6.8.0.38.38.1~22.04.1.dsc
