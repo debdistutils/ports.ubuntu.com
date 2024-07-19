@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8c6325e71e67efb9e6fed2810bfa7c64826cc20bab9d57ca8f059d90da96d40e
-size 8065
+../../../restricted/l/linux-restricted-modules-gcp-6.8/linux-restricted-modules-gcp-6.8_6.8.0-1010.11~22.04.1.dsc
