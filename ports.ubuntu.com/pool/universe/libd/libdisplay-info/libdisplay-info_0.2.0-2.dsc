@@ -1,1 +1,0 @@
-../../../main/libd/libdisplay-info/libdisplay-info_0.2.0-2.dsc
