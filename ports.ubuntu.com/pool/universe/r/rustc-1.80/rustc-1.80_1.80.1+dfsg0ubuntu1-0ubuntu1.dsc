@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6d943cd52cc7417858b5d570c192fff6e898345a1d4647a57ea0fe72cf59ec04
-size 15746
+../../../main/r/rustc-1.80/rustc-1.80_1.80.1+dfsg0ubuntu1-0ubuntu1.dsc
