@@ -1,0 +1,1 @@
+../../../main/p/pydantic/pydantic_2.8.2-1.dsc
