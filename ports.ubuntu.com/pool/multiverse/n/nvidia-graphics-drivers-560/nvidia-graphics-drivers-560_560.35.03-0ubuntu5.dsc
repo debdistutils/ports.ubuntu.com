@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:4343c19a0578b6c88c7f42ea79564d4b977273fa9bad7d5481e2106386e2de80
-size 5468
+../../../restricted/n/nvidia-graphics-drivers-560/nvidia-graphics-drivers-560_560.35.03-0ubuntu5.dsc
