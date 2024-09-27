@@ -1,1 +1,0 @@
-../../../main/w/wsdd/wsdd_0.8-2ubuntu3.dsc
