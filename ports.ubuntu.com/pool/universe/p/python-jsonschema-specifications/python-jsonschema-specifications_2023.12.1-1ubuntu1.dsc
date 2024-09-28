@@ -1,0 +1,1 @@
+../../../main/p/python-jsonschema-specifications/python-jsonschema-specifications_2023.12.1-1ubuntu1.dsc
