@@ -1,1 +1,0 @@
-../../../main/g/golang-1.22/golang-1.22_1.22.7-1.dsc
