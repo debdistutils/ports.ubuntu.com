@@ -1,1 +1,0 @@
-../../../main/p/postgresql-17/postgresql-17_17.0-1.dsc
