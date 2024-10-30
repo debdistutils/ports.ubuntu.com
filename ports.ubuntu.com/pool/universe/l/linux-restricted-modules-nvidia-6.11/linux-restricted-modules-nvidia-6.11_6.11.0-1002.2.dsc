@@ -1,1 +1,0 @@
-../../../restricted/l/linux-restricted-modules-nvidia-6.11/linux-restricted-modules-nvidia-6.11_6.11.0-1002.2.dsc
